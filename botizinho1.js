@@ -43,7 +43,8 @@
             sock.onopen = function() {
                 console.log('Connected to socket!');
                 sendToSocket();
-            };
+            };            };
+
             sock.onclose = function() {
                 console.log('Disconnected from socket, reconnecting every minute ..');
                 var reconnect = setTimeout(function() {
