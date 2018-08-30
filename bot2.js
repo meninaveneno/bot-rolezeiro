@@ -100,7 +100,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/meninaveneno/bot-rolezeiro/master/bot-pt.json", function (json) {
+        $.get("https://rawgit.com/meninaveneno/bot-rolezeiro/master/boton-pt.json", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -243,7 +243,7 @@
         loggedInID: null,
         scriptLink: null,
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/meninaveneno/bot-rolezeiro/master/bot-pt.json",
+        chatLink: "https://rawgit.com/meninaveneno/bot-rolezeiro/master/boton-pt.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -251,7 +251,7 @@
         settings: {
             botName: "BOT-Seduzente",
             language: "portuguese",
-            chatLink: "https://rawgit.com/meninaveneno/bot-rolezeiro/master/bot-pt.json",
+            chatLink: "https://rawgit.com/meninaveneno/bot-rolezeiro/master/boton-pt.json",
             scriptLink: null,
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
