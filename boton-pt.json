@@ -88,7 +88,7 @@
         "/me Roleta a cada 30 minutos, fique atento as roletas, uma move para o 2º lugar e a outra para uma posição aleatória!",
         "/me Participe do Grupo no Facebook: Nenhuma",
         "/me :loudspeaker: Sorteio de PP a qualquer momento fiquem atentos! :moneybag:",
-        "/me Digite !autowoot e instale o RCS para poder ver a costumização da sala, foto no chat, etc http://i.imgur.com/X5MGCGi.png ",
+        "/me Digite !autowoot e instale o RCS para poder ver a costumização da sala, foto no chat, etc",
         "/me Comandos do bot OFFLINE"
     ],
     
@@ -159,7 +159,7 @@
     "greyuser": "Apenas Seguran\u00e7as ou superiores podem usar o bot.",
     "bouncer": "O bot n\u00e3o pode mover pessoas na fila de espera quando usado por um bouncer.",
     "online": "\/me %%BOTNAME%% online!",
-    "welcome": "Bem vindo(a) a sala Rolezeiros do Plug seu/sua lindo(a) %%NAME%% <3",
+    "welcome": "안녕하세요 - Bem vindo(a) a sala KR [너의 길은 너의 것이다] BR %%NAME%% <3",
     "welcomeback": "Bem-vindo(a) de volta %%NAME%% :two_hearts:",
     "songknown": "@%%NAME%%, essa m\u00fasica est\u00e1 no hist\u00f3rico.",
     "timelimit": "@%%NAME%%, sua m\u00fasica tem dura\u00e7\u00e3o maior que %%MAXLENGTH%% minutos. Voc\u00ea precisa ter permiss\u00e3o para tocar m\u00fasicas longas.",
