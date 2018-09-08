@@ -275,7 +275,7 @@
             voteSkipLimit: 10,
             historySkip: true,
             timeGuard: true,
-            maximumSongLength: 10,
+            maximumSongLength: 15,
             autodisable: true,
             roletaInterval: 5,
             autoroulette: true,
